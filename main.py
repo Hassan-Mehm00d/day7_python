@@ -23,4 +23,4 @@ elif tvShow.lower() == "you":
   else:
     print("Thats it!")
 else:
-  print("Yeah, that's cool and all…")
+  print("Yeah, that's cool and all....")
